@@ -1,11 +1,6 @@
 
 # Parking Management System (Assignment LPU)
-
-
-
-
-## Acknowledgements
-
+  
  - Clone this repository
  - [Just move to the directory --> cd parking-slot]
  - run command for setting up new npm package --> npm init
